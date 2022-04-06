@@ -1,0 +1,11 @@
+Lista todos los cursos:
+/cursos
+
+Pantalla para agregar un nuevo curso:
+/pantallaAgregarCurso
+
+Pantalla para eliminar un curso:
+/pantallaEliminarCurso
+
+Pantalla para actualizar un curso:
+/pantallaActualizarCurso
